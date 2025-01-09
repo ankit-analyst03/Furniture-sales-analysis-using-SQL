@@ -11,7 +11,7 @@ This repository contains the SQL scripts and supporting files for analyzing furn
 ## Files
 - `Furniture Analysis.sql`: SQL script for performing data analysis on furniture sales.
 - `Dataset.xlsx`: Dataset used for the analysis.
-- `SQL Project.pdf`: Detailed documentation of the project, including methodology and insights.
+- `Insights.pdf`: Detailed documentation of the project, including methodology and insights.
 
 ## Getting Started
 1. Clone the repository:
